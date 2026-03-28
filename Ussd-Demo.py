@@ -1,4 +1,3 @@
-
 Customer_name = 'Alex', 'MK'
 
 print(f'''
@@ -44,7 +43,7 @@ def safaricom_data():
             if pin:
                 print(f'''
                       
-
+### messages ###
 {Customer_name[0]}
 Confirmed !! You Have Bought 200mbs for 24 hours @ ksh20 from m-pesa
                       ''')
